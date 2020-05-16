@@ -1,10 +1,7 @@
-# wma2mp3
-Converts wma-files to mp3-files recursively
-
 SETUP
 ------------------
 
-The tool depends of ffmpeg, which can be downloaded e.g. here:
+The tool depends of FFmpeg, which can be downloaded e.g. here:
 https://ffmpeg.zeranoe.com/builds/
 
 After installing ffmpeg, the path to your ...\ffmpeg\bin\ has to be added to the path variable.
@@ -19,3 +16,7 @@ USAGE
 * Select the folder were all your music files are contained.
 * A neighboring folder will be created with the postfix _mp3 (e.g. if you select _C:\Users\JohnDoe\Music_ your output folder will be named _C:\Users\JohnDoe\Music_mp3_).
 * The output folder will contain the same subfolder structure as the input folder, all wma files will be converted to mp3 files. All subfolder that do not contain any wma files in the input folder, will not be present in the output folder.
+
+LEGAL
+--------------------
+This software uses code of <a href=http://ffmpeg.org>FFmpeg</a> licensed under the <a href=http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html>LGPLv2.1</a> and its source can be downloaded here: https://ffmpeg.zeranoe.com/builds/
