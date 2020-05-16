@@ -1,10 +1,10 @@
 SETUP
 ------------------
 
-The tool depends of FFmpeg, which can be downloaded e.g. here:
+The tool depends of <a href=http://ffmpeg.org>FFmpeg</a>, which can be downloaded e.g. here:
 https://ffmpeg.zeranoe.com/builds/
 
-After installing ffmpeg, the path to your ...\ffmpeg\bin\ has to be added to the path variable.
+After installing <a href=http://ffmpeg.org>FFmpeg</a>, the path to your ...\ffmpeg\bin\ has to be added to the path variable.
 
 Here you find a description how this can be done in Windows 10:
 https://www.architectryan.com/2018/03/17/add-to-the-path-on-windows-10/
