@@ -2,7 +2,7 @@ SETUP
 ------------------
 
 The tool depends of <a href=http://ffmpeg.org>FFmpeg</a>, which can be downloaded e.g. here:
-https://ffmpeg.zeranoe.com/builds/
+https://ffmpeg.org//download.html
 
 After installing <a href=http://ffmpeg.org>FFmpeg</a>, the path to your ...\ffmpeg\bin\ has to be added to the path variable.
 
